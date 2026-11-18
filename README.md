@@ -147,6 +147,12 @@ That is still your link and still counts, as long as the signups are real verifi
 
 Repeat for three weeks and you will have a small, real community — which is worth far more than a long list of strangers who never came back.
 
+## Keep track of your invites
+
+A tiny bit of tracking keeps your inviting honest and effective. Keep a simple note — a phone note is enough — with three columns: who you invited, when you sent the link, and whether they signed up and took a first step. Review it once a week and follow up exactly once with anyone who signed up but has not done anything yet. Never chase the same person twice about the same link; one reminder is helpful, two is pressure.
+
+If someone says no, write that down too and move on. A graceful "no problem, the link is there if you ever get curious" leaves the door open and costs you nothing.
+
 ## Why this guide exists
 
 I wrote this guide because the fastest way to grow make.fun is not a louder megaphone — it is one honest invitation at a time. Bring a friend, help them settle in, and the platform grows with people who actually want to be there. That is the whole playbook.
