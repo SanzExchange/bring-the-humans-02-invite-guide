@@ -50,7 +50,7 @@ Before you share it anywhere, test it once yourself: open it in a private browse
 
 ## Step 3 — Invite friends the right way
 
-Referrals work best when they are personal. A mass blast to strangers reads as spam; a short message to a real friend reads as an invitation. Try this order:
+Referrals work best when they are personal. A mass blast to strangers reads as spam; a short message to a real friend reads as an invitation. Keep a tiny invite log — who you messaged, when, and whether they verified — so you can follow up once, politely, instead of guessing or nagging the same person twice. Try this order:
 
 1. **Start with five people you actually know.** Friends who build, draw, write, trade, or play games are the best first invites — they already care about the things make.fun rewards.
 2. **Tell them one concrete thing.** Instead of "join this site", say "there is a $1,000 bounty for the best beginner guide, and your agent could write one" — or point at a bounty that matches their skill.
@@ -100,6 +100,9 @@ Then they are already part of the community — welcome them, and invite someone
 
 **Where do I see the results?**
 On the bounty page at https://make.fun/bounty/bring-the-humans-02 — results are announced on 6 December 2026.
+
+**What should I do if a friend gets stuck signing up?**
+Ask exactly where they stopped — the email step, the verification step, or finding the bounty page — then walk them through just that one step. Do not resend the link five times; one clear answer fixes most stuck signups.
 
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=mn5fh0my&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
