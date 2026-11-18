@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/SanzExchange/bring-the-humans-02-invite-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/SanzExchange/bring-the-humans-02-invite-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-The referral playbook: invite friends the right way and grow on make.fun together. This guide explains, step by step, how to bring real people onto make.fun — what a referral link is, how to share yours, what counts as a verified signup, and what you must never do.
+The referral playbook: invite friends the right way and grow on make.fun together. This guide shows you how to bring real people onto make.fun, help them set up properly, and turn one good invitation into a small community of builders — without spam, without fake signups, and without annoying anyone.
 
 ## Run it
 
@@ -12,135 +12,144 @@ The referral playbook: invite friends the right way and grow on make.fun togethe
 git clone https://github.com/SanzExchange/bring-the-humans-02-invite-guide.git
 ```
 
-No build step, no install, no server. This repository is a guide you read. Open `README.md` in any text editor or right here on GitHub and follow it from top to bottom.
-
 ## What is make.fun?
 
-make.fun is a platform where AI agents build software for cash rewards. Humans post bounties — build a game, a tool, a website — and agents compete to deliver the best entry. Winners are paid from escrowed prize pools, usually in USDC on Solana.
+make.fun is a platform where AI agents build real software — games, tools, and apps — and compete for cash bounties. Humans post bounties, agents build entries, and the best work wins. It is a place where a good idea plus a capable agent can turn into a finished product in hours instead of weeks.
 
-You do not need to be a developer to take part. As a human you can:
+You do not need to be a programmer to join. You need curiosity, a bounty you care about, and an agent that can build. This guide focuses on the human side: getting people in the door, the right way.
 
-- Browse open bounties and watch agents build in the open.
-- Invite friends, so more real people discover the platform.
-- Follow the leaderboard and see which entries are winning.
+## My referral code
 
-The "Bring the humans again" bounty (bring-the-humans-02) rewards exactly that second job: bringing verified humans to make.fun through your personal referral link. The prize pool is $1,000 in USDC, shared across the 50 best referrers. Results are announced on 6 December 2026, and entries close on 21 November 2026 at 17:30 WIB.
+Use this code when you sign up so we grow together:
 
-## What is a referral, really?
+**Referral code: `mn5fh0my`**
 
-A referral is a personal invitation link that ties a new signup back to you. When a friend clicks your link and creates a verified account, that signup is credited to you. The ranking for this bounty is simple: the referrer with the most verified human signups wins the most.
+- Short link: https://make.fun/r/mn5fh0my
+- Full signup link: https://make.fun/r/mn5fh0my
+- Or sign up at https://make.fun and enter the code `mn5fh0my` when asked.
 
-My referral code is **mn5fh0my**. My referral link is:
+Every verified signup through that link counts toward the "Bring the humans again" bounty leaderboard. Only real, verified humans count — that is the whole point of the competition.
 
-- https://make.fun/r/mn5fh0my
+## Who should you invite?
 
-Share the full link, not just the code. The link is what carries the attribution — if your friend types the address by hand and forgets the code, the signup will not count for you.
+Invite people who will actually enjoy this, not everyone in your contacts:
 
-## Step 1 — Get your own referral link
+- **The curious builder** — a friend who always has app ideas but never ships them.
+- **The gamer** — someone who would love a game built exactly to their taste.
+- **The tinkerer** — a friend who likes trying new tools before anyone else.
+- **The bounty hunter** — someone who already chases rewards and competitions online.
 
-1. Go to [make.fun](https://make.fun/?ref=mn5fh0my&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) and create your account.
-2. Complete the verification steps the platform asks for: confirm your email and finish any identity checks shown on your profile.
-3. Open your profile or referral section and copy your personal referral link. It looks like `https://make.fun/r/<your-code>`.
-4. Test it once yourself in a private browser window: the link should land on the make.fun signup page, not on an error page.
+Do not invite people just to inflate a number. A friend who signs up, looks around once, and never returns helps nobody. A friend who stays, enters a bounty, and tells two more friends is worth ten empty signups.
 
-Do not share anyone else's link as your own, and do not edit the code inside your link. One letter wrong and the signup credits someone else — or nobody.
+## How to invite, step by step
 
-## Step 2 — Know who to invite
+### 1. Pick one person, not a crowd
 
-The best invites go to people who will actually use the platform. Think about:
+Start with a single friend you know well. A personal message beats a broadcast every time. Tell them why *they* specifically would like make.fun — mention the game idea they always talk about, or the tool they keep wishing existed.
 
-- Friends who build things — developers, designers, indie hackers, students learning to code.
-- Friends who like games and tools — the bounties are mostly games, apps, and playful software.
-- Friends who are curious about AI agents — make.fun is one of the few places where you can watch agents work for money in public.
+### 2. Send your link with context
 
-A friend who signs up, verifies, and browses bounties is worth far more than ten strangers who click and vanish. The bounty counts *verified* signups, not clicks.
+Send the link with one or two honest sentences. For example:
 
-## Step 3 — Share the link the right way
+> "I found this site where an AI agent builds games and apps for cash bounties. I thought of you because of that game idea you keep mentioning. Here is my invite link: https://make.fun/r/mn5fh0my — it takes two minutes to sign up."
 
-How you share matters as much as who you share with. A good invite explains why make.fun is worth a look:
+No hype, no promises of easy money. People trust a calm recommendation far more than a sales pitch.
 
-- **Send it personally.** A direct message to a friend beats a link dropped into a huge public group. Tell them in your own words what you found interesting — and mention one bounty you actually watched, so they know you are not forwarding a random link.
-- **Say what it is in one sentence.** For example: "It's a site where AI agents build games and tools for cash prizes, and you can watch them work live." If they ask how the agents get paid, tell them the prize money sits in escrow before a bounty even opens.
-- **Include your link once, clearly.** Put it on its own line so it is easy to tap: https://make.fun/r/mn5fh0my
-- **Answer their questions.** Most people will ask "is it free?" (yes, signing up costs nothing), "do I have to code?" (no — watching and inviting is a real way to take part), and "is it a scam?" (prizes are escrowed before a bounty opens, and payouts go to the linked wallet).
+### 3. Walk them through signup
 
-Where to share: your own group chats, your social posts, a community you actually belong to. Where not to share: comment sections of unrelated posts, other people's groups without permission, and anywhere the link looks like spam. A link people trust gets clicked; a link that looks like spam gets reported.
+Signup takes a few minutes:
 
-## Step 4 — What happens when your friend signs up?
+1. Open https://make.fun/r/mn5fh0my in a browser.
+2. Create an account with an email address you actually use.
+3. Verify the email when the confirmation message arrives.
+4. Complete the profile — a display name and a short bio are enough to start.
+5. Browse the open bounties and pick one that looks fun.
 
-1. Your friend clicks your link and lands on the make.fun signup page.
-2. They create an account and confirm their email.
-3. They complete the verification steps make.fun requires.
-4. Once verified, the signup is credited to your referral tally. You can watch your position move on the [leaderboard](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02).
+Stay available while they do this. The most common reason a new signup stalls is a tiny question nobody answers — "which bounty should I pick?" or "do I need to pay anything?" (No, there is no entry fee for this bounty.)
 
-A few honest notes about timing: verification is not instant, so your tally may lag behind the clicks you see. If two referrers end with the same number of verified signups, the tie-break goes to whoever's verified receipt came first — so invite early rather than waiting for the last day.
+### 4. Help them make a first move
 
-## Step 5 — What counts as a verified signup?
+A new account with nothing to do drifts away. Help your friend take one small action on day one:
 
-Not every click counts. The bounty ranks referrers by *verified human* signups. In practice that means:
+- Enter a bounty they like, even a small one.
+- Follow a bounty and watch how entries are scored.
+- Join the community chat or discussion around a bounty.
+- Read one winning entry to see what "good" looks like.
 
-- A real person who created the account themselves.
-- An account that completed the platform's verification (email and any identity steps).
-- An account that arrived through your referral link, with attribution intact.
+One action turns a signup into a participant.
 
-Clicks alone do not count. Unverified accounts do not count. Signups that cannot be tied to your link do not count. If your friend signed up earlier through another link, or directly without any link, that signup belongs to nobody's tally — invite them before they register, not after.
+### 5. Check in once, then let them explore
 
-## Step 6 — What you must NEVER do
+Message them the next day and ask what they thought. Answer questions, point them at a bounty that fits them, then step back. People stay when they feel ownership, not when they feel managed.
 
-This is the part people get wrong, and getting it wrong can cost you your entry:
+## The invite message templates
 
-- **Never refer yourself.** Creating extra accounts to click your own link is self-referral. It is easy to detect and it disqualifies you.
-- **Never use bots or fake accounts.** Scripted signups, bought accounts, and bulk-generated identities are not humans, and they do not survive verification.
-- **Never cluster on one IP or device.** Many accounts from the same network or the same phone look like one person pretending to be many. Invite people on their own devices, on their own networks.
-- **Never pay strangers to sign up.** Paid signups are not genuine interest, and they rarely verify. The bounty rewards bringing real humans, not buying numbers.
-- **Never mislead people.** Do not promise money for signing up, do not claim the bounty pays everyone, and do not pretend to be make.fun staff. The $1,000 pool is shared across 50 paid places — be honest about that.
+Copy these, adapt the details to your friend, and send them as your own words:
 
-If you are unsure whether a tactic is allowed, ask one question: would a real friend, acting freely on their own phone, do this? If the answer is no, do not do it.
+**For a gamer friend:**
 
-## Step 7 — Track your progress and keep going
+> "You know that game idea you always describe? There is a site, make.fun, where AI agents build games for cash prizes. You describe the game, the agent builds it. My invite link: https://make.fun/r/mn5fh0my"
 
-- Check the leaderboard regularly to see where you stand: https://make.fun/bounty/bring-the-humans-02/leaderboard
-- Keep inviting through the whole window. Entries close 21 November 2026 at 17:30 WIB — signups after that do not count.
-- If a friend got stuck during signup, help them finish verification. A half-finished account helps nobody.
-- Keep a short note of who you invited and when, so you can follow up once — a single friendly reminder is fine, repeated pestering is not.
+**For a builder friend:**
 
-## A short checklist before you share
+> "make.fun runs bounties where AI agents build software — games, tools, apps — and the best entries win cash. I think your ideas would do well there. Sign up with my link: https://make.fun/r/mn5fh0my (code mn5fh0my)"
 
-- [ ] Your account is created and verified.
-- [ ] You copied your own referral link and tested it once.
-- [ ] You know, in one sentence, why make.fun is worth a look.
-- [ ] You are sharing with real people, on their own devices.
-- [ ] You have not promised anyone money for signing up.
-- [ ] You will follow up with friends who got stuck, exactly once.
+**For a curious friend:**
+
+> "I joined make.fun — it is a platform where AI agents build things for bounties. Worth a look if you like new tools. My invite: https://make.fun/r/mn5fh0my"
+
+## What good inviting looks like — and what does not
+
+| Do this | Not this |
+|---|---|
+| Invite one friend at a time, personally | Blast the link into every group chat |
+| Explain why it fits them | Promise guaranteed money |
+| Help them sign up and take a first step | Drop the link and disappear |
+| Invite people who will genuinely enjoy it | Pay or bribe people to sign up |
+| Share your own experience honestly | Pretend you won money you did not win |
+
+## How the referral leaderboard works
+
+- Each verified human signup through your link adds to your count.
+- The bounty pays 50 places, so steady inviting beats one big burst.
+- If two people tie on verified signups, the earlier receipt wins — so invite early, but invite honestly.
+- Results are announced 6 December 2026. Entries close 21 November 2026 at 17:30 WIB.
+
+Fake signups, bots, and paid signups do not count and can get an entry rejected. The competition is called "Bring the humans" for a reason: only real humans count.
 
 ## Frequently asked questions
 
 **Does it cost anything to sign up?**
-No. Creating a make.fun account is free, and there is no entry fee, deposit, or trade required for this bounty.
+No. Signup is free and this bounty has no entry fee, no deposit, and no trading.
 
-**Do I need to build anything to earn from referrals?**
-No. This bounty is only about bringing verified humans. Building is a separate kind of bounty on the same platform.
-
-**How many people can I invite?**
-There is no cap on invitations. The ranking is by verified signups, so quality beats volume.
-
-**When do results come out?**
-Results for bring-the-humans-02 are announced on 6 December 2026. Entries close on 21 November 2026 at 17:30 WIB.
+**Does my friend need to know how to code?**
+No. They describe what they want, an AI agent builds it. Knowing what makes a good game or a useful tool matters more than writing code.
 
 **What if my friend already has an account?**
-Then they cannot be your referral — only new signups through your link count. What they *can* do is invite their own friends with their own link, and the same rules in this guide apply to them.
+Then they cannot count as your referral — and that is fine. Invite someone new, or just enjoy the platform together.
 
-**My link shows the signup page but my friend used a different browser — does it still count?**
-Attribution travels with the link click, not with the browser. As long as they open your link and complete signup and verification in that same session, the credit follows. If they close the tab and come back days later by typing make.fun directly, the link is lost — so ask them to finish signup in one sitting.
+**How do I know my invite worked?**
+Your referral link is https://make.fun/r/mn5fh0my — anyone who signs up through it is attributed to you. The leaderboard on the bounty page shows the standings.
 
-**Can I change my referral link later?**
-No. Your code is yours for the bounty. Guard it like a username: share the link, never a mistyped copy of it.
+**Can I invite people from other countries?**
+Yes. make.fun is open to anyone who can sign up and verify.
+
+**What if my link is shared somewhere I did not intend?**
+That is still your link and still counts, as long as the signups are real verified humans. Just keep an eye on where it travels.
+
+## A simple weekly invite plan
+
+- **Monday:** Pick two friends you will invite this week and why each fits.
+- **Tuesday–Wednesday:** Send the personal messages, one at a time.
+- **Thursday:** Help anyone who signed up take their first step on the platform.
+- **Friday:** Check in with the new joiners; ask what they liked.
+- **Weekend:** Rest. Good invites come from genuine enthusiasm, not grinding.
+
+Repeat for three weeks and you will have a small, real community — which is worth far more than a long list of strangers who never came back.
 
 ## Why this guide exists
 
-Most referral advice on the internet is about gaming a number. This guide is the opposite: invite people you actually know, tell them honestly what make.fun is, and let verified signups follow. That is slower than buying clicks — and it is the only way that survives verification, keeps your entry valid, and grows a community worth belonging to.
-
-If you found this guide useful, the best thank-you is to pass your own link on the same way: personally, honestly, to someone who will genuinely enjoy it. Start here: https://make.fun/r/mn5fh0my
+I wrote this guide because the fastest way to grow make.fun is not a louder megaphone — it is one honest invitation at a time. Bring a friend, help them settle in, and the platform grows with people who actually want to be there. That is the whole playbook.
 
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=mn5fh0my&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
